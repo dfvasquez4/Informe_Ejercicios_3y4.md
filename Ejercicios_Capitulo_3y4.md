@@ -14,6 +14,9 @@ _Desarrollar los ejercicios de los capitulos 3 y 4 entendienndo conjuntamente ca
 _obejtivos_
 
 ### 2.Marco Teórico
+
+![image](https://user-images.githubusercontent.com/85259801/121703257-42d49580-ca98-11eb-9764-e622a916977d.png)
+
 **Capítulo 3** 
 
 **Resistencia**
@@ -34,20 +37,44 @@ _d. 0.5 cm_
 
 ![image](https://user-images.githubusercontent.com/84418933/121631834-776b3180-ca45-11eb-965f-37081764ea74.png)
 
+_5. Un alambre de cobre con un diámetro de 0.80 mm tiene una resistencia de 10.3 Ω a 20 °C. ¿Cuánto mide el alambre en metros y en pies?_
+
+![image](https://user-images.githubusercontent.com/85259801/121703496-83ccaa00-ca98-11eb-8ffb-a4f92dc86155.png)
+![image](https://user-images.githubusercontent.com/85259801/121703536-90510280-ca98-11eb-962c-3f815d2402cf.png)
+
 _7. Determine la resistividad (en ohm-metros) de un cilindro de grafito con base de carbón que tiene una longitud de 6.00 cm, un diámetro de 0.50 mm y una resistencia medida de 3.0 N a 20°C. ¿Cómo se compara este valor con la resistividad que se reporta para el carbón?_
 ![image](https://user-images.githubusercontent.com/84418933/121632028-d630ab00-ca45-11eb-8d4f-fd203de51193.png)
 
+_11. Utilice la tabla 3-2 para determinar la resistencia de 300 ft de conductores de cobre sólido AWG 22 y AWG 19, compare diámetro y resistencia de los alambres._
+
+![image](https://user-images.githubusercontent.com/85259801/121703592-9f37b500-ca98-11eb-9b59-c21ab545ddf9.png)
+![image](https://user-images.githubusercontent.com/85259801/121703610-a2cb3c00-ca98-11eb-8454-32ae479152f5.png)
+![image](https://user-images.githubusercontent.com/85259801/121703636-a9f24a00-ca98-11eb-98d9-cbe8e13c0ef9.png)
+
 _13. Determine la máxima corriente que puede conducir un alambre AWG 19 y uno AWG 30._
 ![image](https://user-images.githubusercontent.com/84418933/121632117-06784980-ca46-11eb-8c50-e3ea3fc5fa0a.png)
+
+_17. Determine el área en milésimas circulares de los siguientes conductores (T=20°C)_
+
+![image](https://user-images.githubusercontent.com/85259801/121703955-ede54f00-ca98-11eb-9d2f-7714fe1290a7.png)
+![image](https://user-images.githubusercontent.com/85259801/121704300-41f03380-ca99-11eb-9d86-2d9718896b8f.png)
 
 _19. Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17._
 
 ![image](https://user-images.githubusercontent.com/84418933/121632185-29a2f900-ca46-11eb-8142-d6059abe4f14.png)
 ![image](https://user-images.githubusercontent.com/84418933/121632227-39bad880-ca46-11eb-99a5-12a6da7f2ace.png)
 
+_23. Un carrete de alambre de cobre sólido con un diámetro de 0.040 plg tiene una resistencia de 12.5 Ω a una temperatura de 20°C._
+
+![image](https://user-images.githubusercontent.com/85259801/121704427-63511f80-ca99-11eb-8524-68e4a7598ab4.png)
+
 _25. Un conductor de aluminio tiene una resistencia de 50 a temperatura ambiente. Encuentre la resistencia para el mismo conductor a -30°C, 0°C y a 200°C._
 
 ![image](https://user-images.githubusercontent.com/84418933/121632360-7981c000-ca46-11eb-88cb-9d00c4e38a2c.png)
+
+_29. Un calentador eléctrico está hecho de alambre de nicromo. EL alambre tiene una resistencia de 15.2 ohm a una temperatura de 20°C. Determine la resistencia de alambre de nicromo cuando su temperatura aumente a 260°C_
+
+![image](https://user-images.githubusercontent.com/85259801/121704582-824fb180-ca99-11eb-82a8-c859a484cd1b.png)
 
 _31. Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 N a una temperatura de -20°C y de 1901 a 120°C._ 
 
