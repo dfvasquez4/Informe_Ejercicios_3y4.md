@@ -132,6 +132,10 @@ _d. El contacto deslizante está en a._
 
 ![image](https://user-images.githubusercontent.com/85728185/121711186-ef664580-ca9f-11eb-8b86-6c4dacebdf59.png)
 
+_35. Dados los resistores con los siguientes códigos de colores, determine la resistencia la tolerancia y la confiabilidad de cada componente. Exprese la incertidumbre _
+
+![image](https://user-images.githubusercontent.com/85728185/121713402-6f8daa80-caa2-11eb-9435-99a43ab1b19e.png)
+
 _37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió._
 
 ![image](https://user-images.githubusercontent.com/84418933/121632671-ff057000-ca46-11eb-92fb-3b7283a8f147.png)
@@ -141,6 +145,12 @@ _39. Explique cómo podría usar un óhmetro para determinar aproximadamente cu�
 _El AWG 24 tiene una resistencia  de 25.7 ohms sobre pies. Se mide la resistencia entre dos extremos y se calcula la lanquitud_
 
 ![image](https://user-images.githubusercontent.com/85728185/121711451-3f450c80-caa0-11eb-94fd-d736d2d6d8c8.png)
+
+_41. Un termistor tiene las características que se muestran en la figura 3-23._
+
+![image](https://user-images.githubusercontent.com/85728185/121713490-8b914c00-caa2-11eb-851d-18d67be1546a.png)
+
+![image](https://user-images.githubusercontent.com/85728185/121713567-a06ddf80-caa2-11eb-89ae-898c580b0d73.png)
 
 _43. Calcula la conductancia de las siguientes resistencias: _
 
@@ -177,35 +187,81 @@ _f. V = 12 kV, R = 2 M_
 
 ![image](https://user-images.githubusercontent.com/84418933/121633101-d0d46000-ca47-11eb-91aa-07bbb9eae7fa.png)
 
-_7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 12, si la corriente no debe exceder de 50 mA?_
+_3. Para el circuito de la ﬁgura 4-33, calcule Vpara cada uno de los siguientes incisos:_
+
+![image](https://user-images.githubusercontent.com/85728185/121712635-939cbc00-caa1-11eb-978b-ccae984ef3b6.png)
+
+![image](https://user-images.githubusercontent.com/85728185/121712688-a1524180-caa1-11eb-9911-03b7dbb2d4a2.png)
+
+_5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?_
+
+![image](https://user-images.githubusercontent.com/85728185/121713757-cbf0ca00-caa2-11eb-8559-cacdb0bc075f.png)
+
+_7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 12, si la corriente no debe exceder de 50 mA? _
 
 ![image](https://user-images.githubusercontent.com/84418933/121633239-08dba300-ca48-11eb-9dbf-70f732c1724a.png)
 
-_13. En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible?_
+_9. En la ﬁgura 4-33, si E 	 30 V y la conductancia del resistor es de 0.2 S, ¿cuál es el valor de I? Sugerencia: véase la sección 3-11 en el capítulo 3._
+
+![image](https://user-images.githubusercontent.com/85728185/121712927-e4141980-caa1-11eb-89fa-2eb8155caf13.png)
+
+_11. La corriente a través de un resistor es de 15 mA, si la caída de voltaje en el resistor es de 33 V, ¿Cuál es su código de colores?_
+
+![image](https://user-images.githubusercontent.com/85728185/121713855-e7f46b80-caa2-11eb-8263-aa655126737d.png)
+
+_13. En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible? _
 
 ![image](https://user-images.githubusercontent.com/84418933/121633339-39234180-ca48-11eb-8148-821a6c53b5cc.png)
 
-_19. La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R?_
+_17. Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro con un 0.5 mm. Si la corriente a 20°C es de 200 mA ¿Cuál es el voltaje aplicado?_
+
+![image](https://user-images.githubusercontent.com/85728185/121713965-0490a380-caa3-11eb-9b87-af6e42e2d46c.png)
+
+_19. La figura 4-35 representa la gráfica IV para el circuito de la figura 4-33. ¿Cuál es el valor de R? _
 
 ![image](https://user-images.githubusercontent.com/84418933/121633381-4d673e80-ca48-11eb-98de-3f05d8ba0619.png)
 
-_25. Para cada resistor de la figura 4-36, determine el voltaje Vy su polaridad o la corriente I, así como su dirección cuando sea posible._
+_23. Si 25 m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿Cuál es la corriente a 20°C?_
+
+![image](https://user-images.githubusercontent.com/85728185/121714101-27bb5300-caa3-11eb-803e-5e0977df5a0d.png)
+
+![image](https://user-images.githubusercontent.com/85728185/121714154-30ac2480-caa3-11eb-86f6-6679481d435b.png)
+
+_25. Para cada resistor de la figura 4-36, determine el voltaje Vy su polaridad o la corriente I, así como su dirección cuando sea posible.
 
 ![image](https://user-images.githubusercontent.com/84418933/121633423-640d9580-ca48-11eb-857b-8a6ebf0c813f.png)
 
-_31. Un calentador eléctrico de 1.2 kW tiene una resistencia de 61. ¿Cuánta corriente requiere?_
+_29. Un resistor tiene un 3 A de una batería de 12 V ¿Cuánta potencia entrega la batería al resistor?_
+
+![image](https://user-images.githubusercontent.com/85728185/121714263-49b4d580-caa3-11eb-9555-380c903ed5c3.png)
+
+_31. Un calentador eléctrico de 1.2 kW tiene una resistencia de 61. ¿Cuánta corriente requiere? _
 
 ![image](https://user-images.githubusercontent.com/84418933/121633598-b484f300-ca48-11eb-81c2-248556c6f608.png)
 
-_37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?_
+_35. Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y corriente._
+
+![image](https://user-images.githubusercontent.com/85728185/121714368-5f29ff80-caa3-11eb-9e29-1d79d3119613.png)
+
+_37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente corriente de una batería de 12 V? _
 
 ![image](https://user-images.githubusercontent.com/84418933/121633633-c5356900-ca48-11eb-8219-3d1e4156a5b4.png)
 
-_43. Un resistor de 25 A se conecta a un suministro de energía cuyo voltaje es de 100 V + 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor?_
+_41. Un resistor de 0.27 kΩ es especificado en 2 W. Calcule el máx. voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación._
+
+![image](https://user-images.githubusercontent.com/85728185/121714483-7a950a80-caa3-11eb-9e3b-62e4c848f09f.png)
+
+![image](https://user-images.githubusercontent.com/85728185/121714531-87196300-caa3-11eb-94b9-cec430112aba.png)
+
+_43. Un resistor de 25 A se conecta a un suministro de energía cuyo voltaje es de 100 V + 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor? _
 
 ![image](https://user-images.githubusercontent.com/84418933/121633661-d54d4880-ca48-11eb-834c-7627d8873c40.png)
 
-_49. Determine el costo total por usar los siguientes aparatos a $0.11 por kW_
+_47. Una lampara de seguridad nocturna de 40 W se enciende por 9 horas__
+
+![image](https://user-images.githubusercontent.com/85728185/121714623-a44e3180-caa3-11eb-870f-d54e0b728ddd.png)
+
+_49. Determine el costo total por usar los siguientes aparatos a $ 0.11 por kW_
 
 _a. Un tostador de 900 W por 5 minutos._
 
@@ -217,7 +273,13 @@ _d. Un cautín de 120 V y 288 2 por 24 minutos._
 
 ![image](https://user-images.githubusercontent.com/84418933/121633798-180f2080-ca49-11eb-8adf-859f390bc95e.png)
 
-_55. La potencia de salida de un transformador con n = 97% es de 50 kW. ¿Cuál es la potencia de entrada?_
+_53. Si hay 24 rebanadas en una barra de pan y se tienen un tostador de dos rebanadas de 1 100 W que tarda 1 min y 45 segundos en tostarlas a $0.13 /kWh. ¿Cuánto costaría tostar toda la barra?_
+
+![image](https://user-images.githubusercontent.com/85728185/121714706-b9c35b80-caa3-11eb-9f8d-7246bc2aec4a.png)
+
+![image](https://user-images.githubusercontent.com/85728185/121714780-cba4fe80-caa3-11eb-8c02-5755dff70b42.png)
+
+_55. La potencia de salida de un transformador con n = 97% es de 50 kW. ¿Cuál es la potencia de entrada? _
 
 ![image](https://user-images.githubusercontent.com/84418933/121633897-468cfb80-ca49-11eb-8631-7532819dd5fb.png)
 
