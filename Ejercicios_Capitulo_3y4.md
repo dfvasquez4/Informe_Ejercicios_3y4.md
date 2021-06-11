@@ -306,6 +306,13 @@ _c. ¿Por qué los dos valores son diferentes?_
 
 ![image](https://user-images.githubusercontent.com/84418933/121634120-a97e9280-ca49-11eb-8144-67caa6c3a83e.png)
 
+### 4.Video
+
+### 5.Conclusiones
+
+### 6.Bibliografía 
+
+
 
 
 
