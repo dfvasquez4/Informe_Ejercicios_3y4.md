@@ -333,14 +333,14 @@ _-Así mismo comprendimos la ley de ohm una de las leyes fundamentales de la ele
 
 ### 6.Bibliografía 
 
-_Resistencia_
+**_Resistencia_
 
 Fernández, Gregorio Coronado, J. L. (2020). Resistencia. Fisicalab. https://www.fisicalab.com/apartado/resistencia-electrica-conductor
 
 
 Mazur, G. A. (2021, 9 mayo). ¿Qué es la resistencia? Fluke. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-resistencia
 
-_Ley de Ohm; potencia y energia_
+**_Ley de Ohm; potencia y energia_
 
 Khanacademy. (2021). Repaso de diferencia de potencial eléctrico y ley de Ohm (artículo). https://es.khanacademy.org/science/fisica-pe-pre-u/x4594717deeb98bd3:corriente-electrica/x4594717deeb98bd3:resistencia-electrica-y-la-ley-de-ohm/a/voltage-and-ohms-law-ap1
 
