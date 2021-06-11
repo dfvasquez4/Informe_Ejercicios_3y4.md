@@ -309,9 +309,21 @@ _c. ¿Por qué los dos valores son diferentes?_
 ### 4.Video
 
 ### 5.Conclusiones
+-
 
 ### 6.Bibliografía 
 
+_Resistencia_
+
+https://www.fisicalab.com/apartado/resistencia-electrica-conductor
+
+https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-resistencia
+
+_Ley de Ohm; potencia y energia_
+
+https://es.khanacademy.org/science/fisica-pe-pre-u/x4594717deeb98bd3:corriente-electrica/x4594717deeb98bd3:resistencia-electrica-y-la-ley-de-ohm/a/voltage-and-ohms-law-ap1
+
+http://www.iesvirgensoledad.es/tecnologia/ud_circuitos_electricos/bloque_3_ley_de_ohm_potencia_elctrica_y_energa.html
 
 
 
