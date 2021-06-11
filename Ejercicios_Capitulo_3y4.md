@@ -315,6 +315,7 @@ _c. ¿Por qué los dos valores son diferentes?_
 
 ### 5.Conclusiones
 _-Dentro de los antes expuesto hemos visto como desarrollar los ejercicios de Resistencias aplicando formulas y conceptos, comprendiendo asi como es que funcionan las resistencias, la conductancia, la resisitividad, la conductividad y las aplicaciones de dichos temas._
+
 _-Así mismo comprendimos la ley de ohm una de las leyes fundamentales de la electricidad, conjuntamente con los conceptos de potencia y energia; los cuales interpretamos debidamente para la realización de los ejercicios del capitulo 4_
 
 
