@@ -229,7 +229,15 @@ _13. En el circuito de la figura 4-34, si el resistor es reemplazado por otro co
 
 ![image](https://user-images.githubusercontent.com/84418933/121633339-39234180-ca48-11eb-8148-821a6c53b5cc.png)
 
-_17. Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro con un 0.5 mm. Si la corriente a 20°C es de 200 mA ¿Cuál es el voltaje aplicado?_
+_15. Un electroiman se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una es de 3 pulgadas. Cuando se conecta a una fuente de cd de 48 V ¿cual es la corriente?_
+
+_a. a 20 C? _
+
+_b. a 40 C?_
+
+![image](https://user-images.githubusercontent.com/85728185/121727074-082b2700-cab1-11eb-8b5e-aa724c2c3085.png)
+
+_17. Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro con un 0.5 mm. Si la corriente a 20 ° C es de 200 mA ¿Cuál es el voltaje aplicado? _
 
 ![image](https://user-images.githubusercontent.com/85728185/121713965-0490a380-caa3-11eb-9b87-af6e42e2d46c.png)
 
@@ -237,7 +245,11 @@ _19. La figura 4-35 representa la gráfica IV para el circuito de la figura 4-33
 
 ![image](https://user-images.githubusercontent.com/84418933/121633381-4d673e80-ca48-11eb-98de-3f05d8ba0619.png)
 
-_23. Si 25 m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿Cuál es la corriente a 20°C?_
+_21. En un circuito resistivo, E  100 V. Si R se duplica y E se cambia para que la nueva corriente sea el doble que la corriente original, ¿cual es el nuevo valor de E?_
+
+![image](https://user-images.githubusercontent.com/85728185/121727508-a0c1a700-cab1-11eb-8cbb-91f5858f0b21.png)
+
+_23. Si 25 m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿Cuál es la corriente a 20 ° C? _
 
 ![image](https://user-images.githubusercontent.com/85728185/121714101-27bb5300-caa3-11eb-803e-5e0977df5a0d.png)
 
@@ -273,6 +285,12 @@ _43. Un resistor de 25 A se conecta a un suministro de energía cuyo voltaje es 
 
 ![image](https://user-images.githubusercontent.com/84418933/121633661-d54d4880-ca48-11eb-834c-7627d8873c40.png)
 
+_45. Cada bloque de la ﬁgura 4-38 puede ser una fuente o una carga. Determine, para cada uno, su  potencia y dirección._
+
+![image](https://user-images.githubusercontent.com/85728185/121724866-1c215980-caae-11eb-8c49-a986ee3dd81a.png)
+
+![image](https://user-images.githubusercontent.com/85728185/121725365-cb5e3080-caae-11eb-9df0-69d20c0fdc00.png)
+
 _47. Una lampara de seguridad nocturna de 40 W se enciende por 9 horas__
 
 ![image](https://user-images.githubusercontent.com/85728185/121714623-a44e3180-caa3-11eb-870f-d54e0b728ddd.png)
@@ -298,6 +316,7 @@ _53. Si hay 24 rebanadas en una barra de pan y se tienen un tostador de dos reba
 _55. La potencia de salida de un transformador con n = 97% es de 50 kW. ¿Cuál es la potencia de entrada? _
 
 ![image](https://user-images.githubusercontent.com/84418933/121633897-468cfb80-ca49-11eb-8631-7532819dd5fb.png)
+
 
 _59. Un motor de cd de 120V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?_
 
@@ -333,18 +352,18 @@ _-Así mismo comprendimos la ley de ohm una de las leyes fundamentales de la ele
 
 ### 6.Bibliografía 
 
-**_Resistencia_
+_Resistencia_
 
-Fernández, Gregorio Coronado, J. L. (2020). Resistencia. Fisicalab. https://www.fisicalab.com/apartado/resistencia-electrica-conductor
+https://www.fisicalab.com/apartado/resistencia-electrica-conductor
 
+https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-resistencia
 
-Mazur, G. A. (2021, 9 mayo). ¿Qué es la resistencia? Fluke. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-resistencia
+_Ley de Ohm; potencia y energia_
 
-**_Ley de Ohm; potencia y energia_
+https://es.khanacademy.org/science/fisica-pe-pre-u/x4594717deeb98bd3:corriente-electrica/x4594717deeb98bd3:resistencia-electrica-y-la-ley-de-ohm/a/voltage-and-ohms-law-ap1
 
-Khanacademy. (2021). Repaso de diferencia de potencial eléctrico y ley de Ohm (artículo). https://es.khanacademy.org/science/fisica-pe-pre-u/x4594717deeb98bd3:corriente-electrica/x4594717deeb98bd3:resistencia-electrica-y-la-ley-de-ohm/a/voltage-and-ohms-law-ap1
+http://www.iesvirgensoledad.es/tecnologia/ud_circuitos_electricos/bloque_3_ley_de_ohm_potencia_elctrica_y_energa.html
 
-Iesvirgensoledad. (2020). Bloque 3: Ley de ohm. Potencia eléctrica y energía | Circuitos eléctricos básicos. http://www.iesvirgensoledad.es/tecnologia/ud_circuitos_electricos/bloque_3_ley_de_ohm_potencia_elctrica_y_energa.html
 
 
 
