@@ -259,13 +259,21 @@ _25. Para cada resistor de la figura 4-36, determine el voltaje Vy su polaridad 
 
 ![image](https://user-images.githubusercontent.com/84418933/121633423-640d9580-ca48-11eb-857b-8a6ebf0c813f.png)
 
-_29. Un resistor tiene un 3 A de una batería de 12 V ¿Cuánta potencia entrega la batería al resistor?_
+_27. Un resistor disipa 723 joules de energia en 3 minutos y 47 segundos. Calcule la tasa a la cual la energia se transfiere a este resistor en joules por segundo. ¿Cual es la energia disipada en watts?_
+
+![image](https://user-images.githubusercontent.com/85728185/121727936-32c9af80-cab2-11eb-808f-a0814b78eb6a.png)
+
+_29. Un resistor tiene un 3 A de una batería de 12 V ¿Cuánta potencia entrega la batería al resistor? _
 
 ![image](https://user-images.githubusercontent.com/85728185/121714263-49b4d580-caa3-11eb-9555-380c903ed5c3.png)
 
 _31. Un calentador eléctrico de 1.2 kW tiene una resistencia de 61. ¿Cuánta corriente requiere? _
 
 ![image](https://user-images.githubusercontent.com/84418933/121633598-b484f300-ca48-11eb-81c2-248556c6f608.png)
+
+_33. ¿Cuantos volts se deben aplicar a un resistor de 3 _ para que resulte una disipacion de potencia de 752 W?_
+
+![image](https://user-images.githubusercontent.com/85728185/121728304-b6839c00-cab2-11eb-9cba-bd146079d0f5.png)
 
 _35. Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y corriente._
 
@@ -275,7 +283,11 @@ _37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW.
 
 ![image](https://user-images.githubusercontent.com/84418933/121633633-c5356900-ca48-11eb-8219-3d1e4156a5b4.png)
 
-_41. Un resistor de 0.27 kΩ es especificado en 2 W. Calcule el máx. voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación._
+_39. Un motor entrega 3.56 hp a una carga. ¿Cuantos watts son?_
+
+![image](https://user-images.githubusercontent.com/85728185/121728603-1f6b1400-cab3-11eb-8168-a53bd26bf834.png)
+
+_41. Un resistor de 0.27 kΩ está especificado en 2 W. Calcule el máx. voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación._
 
 ![image](https://user-images.githubusercontent.com/85728185/121714483-7a950a80-caa3-11eb-9e3b-62e4c848f09f.png)
 
@@ -307,7 +319,19 @@ _d. Un cautín de 120 V y 288 2 por 24 minutos._
 
 ![image](https://user-images.githubusercontent.com/84418933/121633798-180f2080-ca49-11eb-8adf-859f390bc95e.png)
 
-_53. Si hay 24 rebanadas en una barra de pan y se tienen un tostador de dos rebanadas de 1 100 W que tarda 1 min y 45 segundos en tostarlas a $0.13 /kWh. ¿Cuánto costaría tostar toda la barra?_
+_ 51. Mientras el dispositivo del problema 50 opera, otras dos cargas tambien lo hacen:_
+
+_a. un calentador de 4 kW, de forma continua,_
+
+![image](https://user-images.githubusercontent.com/85728185/121728915-7e308d80-cab3-11eb-914c-346d65979bf4.png)
+
+_b. un calentador de 3.6 kW 12 horas al dia._
+
+![image](https://user-images.githubusercontent.com/85728185/121728999-97d1d500-cab3-11eb-984a-da25f92276ec.png)
+
+![image](https://user-images.githubusercontent.com/85728185/121729051-a4562d80-cab3-11eb-8919-eda249ff8302.png)
+
+_53. Si hay 24 rebanadas en una barra de pan y se tienen un tostador de dos rebanadas de 1100 W que tarda 1 min y 45 segundos en tostarlas a $ 0.13 / kWh. ¿Cuánto costaría tostar toda la barra? _
 
 ![image](https://user-images.githubusercontent.com/85728185/121714706-b9c35b80-caa3-11eb-9f8d-7246bc2aec4a.png)
 
@@ -317,8 +341,11 @@ _55. La potencia de salida de un transformador con n = 97% es de 50 kW. ¿Cuál 
 
 ![image](https://user-images.githubusercontent.com/84418933/121633897-468cfb80-ca49-11eb-8631-7532819dd5fb.png)
 
+_ 57. La potencia de entrada de un dispositivo es de 1 100 W. Si la potencia que se pierde debido a varias ineficiencias es de 190 W, ¿cual es la eficiencia del dispositivo?_
 
-_59. Un motor de cd de 120V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?_
+![image](https://user-images.githubusercontent.com/85728185/121729225-d23b7200-cab3-11eb-82c0-f07d36a72557.png)
+
+_59. Un motor de cd de 120V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida? _
 
 ![image](https://user-images.githubusercontent.com/85259801/121715540-9ea51b80-caa4-11eb-8343-941544f1450b.png)
 
