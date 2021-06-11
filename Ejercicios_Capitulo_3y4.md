@@ -15,11 +15,16 @@ _obejtivos_
 
 ### 2.Marco Teórico
 
+**Capítulo 4** 
+
+**Ley de Ohm, potencia y energía**
+
 ![image](https://user-images.githubusercontent.com/85259801/121703257-42d49580-ca98-11eb-9764-e622a916977d.png)
 
 **Capítulo 3** 
 
 **Resistencia**
+
 
 ### 3. Explicación y Resolución Ejercicios
 **Capitulo 3**
@@ -309,7 +314,9 @@ _c. ¿Por qué los dos valores son diferentes?_
 ### 4.Video
 
 ### 5.Conclusiones
+-Dentro de los antes expuesto hemos visto como desarrollar los ejercicios de Resistencias aplicando formulas y conceptos, comprendiendo asi como es que funcionan las resistencias, la conductancia, la resisitividad, la conductividad y las aplicaciones de dichos temas.
 -
+
 
 ### 6.Bibliografía 
 
