@@ -283,9 +283,18 @@ _55. La potencia de salida de un transformador con n = 97% es de 50 kW. ¿Cuál 
 
 ![image](https://user-images.githubusercontent.com/84418933/121633897-468cfb80-ca49-11eb-8631-7532819dd5fb.png)
 
+_59. Un motor de cd de 120V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?_
+
+![image](https://user-images.githubusercontent.com/85259801/121715540-9ea51b80-caa4-11eb-8343-941544f1450b.png)
+
 _61. El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48 V, una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo?_
 
 ![image](https://user-images.githubusercontent.com/84418933/121634004-74724000-ca49-11eb-9638-8414b88c785e.png)
+
+_65. Si la eficiencia total de una estación radio transmisora es de 55% y transmite a 35 kW por 24 h/día, calcule el costo de energía que usa cada día a $0.09/kWh._
+
+![image](https://user-images.githubusercontent.com/85259801/121716044-3276e780-caa5-11eb-8689-53575154a98f.png)
+![image](https://user-images.githubusercontent.com/85259801/121716056-360a6e80-caa5-11eb-821a-d5f82caf0ed6.png)
 
 _67. Un resistor que depende de voltaje tiene la característica l-V de la figura 4-41._
 
